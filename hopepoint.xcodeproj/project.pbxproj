@@ -13,15 +13,7 @@
 		398549F11CB57BB500D19C94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 398549EF1CB57BB500D19C94 /* Main.storyboard */; };
 		398549F31CB57BB500D19C94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 398549F21CB57BB500D19C94 /* Assets.xcassets */; };
 		398549F61CB57BB500D19C94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 398549F41CB57BB500D19C94 /* LaunchScreen.storyboard */; };
-		39854A021CB57BC000D19C94 /* Cupertino.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 398549FD1CB57BC000D19C94 /* Cupertino.gpx */; };
-		39854A031CB57BC000D19C94 /* Chicago.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 398549FE1CB57BC000D19C94 /* Chicago.gpx */; };
-		39854A041CB57BC000D19C94 /* London.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 398549FF1CB57BC000D19C94 /* London.gpx */; };
-		39854A051CB57BC000D19C94 /* New_York.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 39854A001CB57BC000D19C94 /* New_York.gpx */; };
-		39854A061CB57BC000D19C94 /* Point_Hope.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 39854A011CB57BC000D19C94 /* Point_Hope.gpx */; };
-		5B4127A41CB6BADC00F93359 /* Two_Forks.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 5B4127A01CB6BADC00F93359 /* Two_Forks.gpx */; };
-		5B4127A51CB6BADC00F93359 /* Bhopal.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 5B4127A11CB6BADC00F93359 /* Bhopal.gpx */; };
-		5B4127A61CB6BADC00F93359 /* LaPiedad.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 5B4127A21CB6BADC00F93359 /* LaPiedad.gpx */; };
-		5B4127A71CB6BADC00F93359 /* Toronto.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 5B4127A31CB6BADC00F93359 /* Toronto.gpx */; };
+		39854A021CB57BC000D19C94 /* Lengleng-CQ.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 398549FD1CB57BC000D19C94 /* Lengleng-CQ.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,15 +27,7 @@
 		398549F21CB57BB500D19C94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		398549F51CB57BB500D19C94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		398549F71CB57BB500D19C94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		398549FD1CB57BC000D19C94 /* Cupertino.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Cupertino.gpx; sourceTree = "<group>"; };
-		398549FE1CB57BC000D19C94 /* Chicago.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Chicago.gpx; sourceTree = "<group>"; };
-		398549FF1CB57BC000D19C94 /* London.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = London.gpx; sourceTree = "<group>"; };
-		39854A001CB57BC000D19C94 /* New_York.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = New_York.gpx; sourceTree = "<group>"; };
-		39854A011CB57BC000D19C94 /* Point_Hope.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Point_Hope.gpx; sourceTree = "<group>"; };
-		5B4127A01CB6BADC00F93359 /* Two_Forks.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Two_Forks.gpx; sourceTree = "<group>"; };
-		5B4127A11CB6BADC00F93359 /* Bhopal.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Bhopal.gpx; sourceTree = "<group>"; };
-		5B4127A21CB6BADC00F93359 /* LaPiedad.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = LaPiedad.gpx; sourceTree = "<group>"; };
-		5B4127A31CB6BADC00F93359 /* Toronto.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Toronto.gpx; sourceTree = "<group>"; };
+		398549FD1CB57BC000D19C94 /* Lengleng-CQ.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Lengleng-CQ.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,15 +76,7 @@
 		398549E61CB57BB500D19C94 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				5B4127A01CB6BADC00F93359 /* Two_Forks.gpx */,
-				5B4127A11CB6BADC00F93359 /* Bhopal.gpx */,
-				5B4127A21CB6BADC00F93359 /* LaPiedad.gpx */,
-				5B4127A31CB6BADC00F93359 /* Toronto.gpx */,
-				398549FD1CB57BC000D19C94 /* Cupertino.gpx */,
-				398549FE1CB57BC000D19C94 /* Chicago.gpx */,
-				398549FF1CB57BC000D19C94 /* London.gpx */,
-				39854A001CB57BC000D19C94 /* New_York.gpx */,
-				39854A011CB57BC000D19C94 /* Point_Hope.gpx */,
+				398549FD1CB57BC000D19C94 /* Lengleng-CQ.gpx */,
 				398549E71CB57BB500D19C94 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -137,6 +113,7 @@
 				TargetAttributes = {
 					398549E21CB57BB500D19C94 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = KJW4PHCGXU;
 					};
 				};
 			};
@@ -163,18 +140,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5B4127A41CB6BADC00F93359 /* Two_Forks.gpx in Resources */,
-				39854A061CB57BC000D19C94 /* Point_Hope.gpx in Resources */,
-				39854A031CB57BC000D19C94 /* Chicago.gpx in Resources */,
-				5B4127A51CB6BADC00F93359 /* Bhopal.gpx in Resources */,
 				398549F61CB57BB500D19C94 /* LaunchScreen.storyboard in Resources */,
 				398549F31CB57BB500D19C94 /* Assets.xcassets in Resources */,
-				39854A051CB57BC000D19C94 /* New_York.gpx in Resources */,
-				39854A041CB57BC000D19C94 /* London.gpx in Resources */,
 				398549F11CB57BB500D19C94 /* Main.storyboard in Resources */,
-				5B4127A71CB6BADC00F93359 /* Toronto.gpx in Resources */,
-				39854A021CB57BC000D19C94 /* Cupertino.gpx in Resources */,
-				5B4127A61CB6BADC00F93359 /* LaPiedad.gpx in Resources */,
+				39854A021CB57BC000D19C94 /* Lengleng-CQ.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +271,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = KJW4PHCGXU;
 				INFOPLIST_FILE = hopepoint/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -315,6 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				DEVELOPMENT_TEAM = KJW4PHCGXU;
 				INFOPLIST_FILE = hopepoint/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
